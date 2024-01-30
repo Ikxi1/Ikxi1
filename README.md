@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikxi
-- 👀 I’m interested in 3D animation and many things concerning 3D
-- 🌱 I’m currently learning VFX creation
+- 👀 I’m interested in 3D and programming
+- 🌱 Stuffs
 - 📫 How to reach me: twitter @Ikxi__
 
 <!---
